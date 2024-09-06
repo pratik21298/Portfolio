@@ -18,6 +18,8 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratik21298&radius=16&theme=github-dark&area=true&order=5&custom_title=Contribution%20Graph" height="350" alt="activity-graph graph"  />
 </div>
+
+
 <div align="center">
 <!-- Copy-paste in your Readme.md file -->
 
