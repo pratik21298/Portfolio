@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="560" src="https://images8.alphacoders.com/115/1156488.png"  />
+  <img height="auto" src="https://images8.alphacoders.com/115/1156488.png"  />
 </div>
 
 ###
@@ -24,8 +24,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pratik21298&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=Pratik" height="200" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=pratik21298&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=pratik21298&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=Pratik" height="auto" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=pratik21298&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="auto" alt="streak graph"  />
 </div>
 
 ###
