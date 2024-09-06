@@ -18,6 +18,7 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratik21298&radius=16&theme=github-dark&area=true&order=5&custom_title=Contribution%20Graph" height="350" alt="activity-graph graph"  />
 </div>
+<div align="center">
 <!-- Copy-paste in your Readme.md file -->
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=128886214" target="_blank" style="display: block" align="center">
@@ -28,7 +29,7 @@
 </a>
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
+</div>
 <h3 align="center"> :🔥:Tech Stack:</h3>
 
 ###
