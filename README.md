@@ -9,6 +9,21 @@
 ###
 
 <div align="center">
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=128886214" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=128886214&image_size=auto&color_scheme=dark" width="1000" height="auto">
+    <img alt="Dashboard stats of @pratik21298" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=128886214&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+</div>
+
+###
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pratik21298&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=Pratik" height="200" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=pratik21298&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
@@ -19,19 +34,23 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratik21298&radius=16&theme=github-dark&area=true&order=5&custom_title=Contribution%20Graph" height="350" alt="activity-graph graph"  />
 </div>
 
+###
 
 <div align="center">
 <!-- Copy-paste in your Readme.md file -->
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=128886214" target="_blank" style="display: block" align="center">
+<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?period=all_times&user_id=128886214" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=128886214&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @pratik21298" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=128886214&image_size=auto&color_scheme=light" width="771" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?period=all_times&user_id=128886214&image_size=auto&color_scheme=dark" width="1000" height="auto">
+    <img alt="Contribution Time Distribution of @pratik21298" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?period=all_times&user_id=128886214&image_size=auto&color_scheme=light" width="721" height="auto">
   </picture>
 </a>
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 </div>
+
+###
+
 <h3 align="center"> :🔥:Tech Stack:</h3>
 
 ###
